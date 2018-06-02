@@ -1,5 +1,5 @@
 {
-  "name": "darzyapp",
+  "name": "alhaq",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -20,7 +20,14 @@
     "@angular/platform-browser": "^6.0.0",
     "@angular/platform-browser-dynamic": "^6.0.0",
     "@angular/router": "^6.0.0",
+    "@ngxs/devtools-plugin": "^3.0.1",
+    "@ngxs/router-plugin": "^3.0.1",
+    "@ngxs/store": "^3.0.1",
+    "angularfire2": "^5.0.0-rc.10",
+    "bootstrap": "^4.1.1",
     "core-js": "^2.5.4",
+    "firebase": "^5.0.4",
+    "font-awesome": "^4.7.0",
     "rxjs": "^6.0.0",
     "zone.js": "^0.8.26"
   },
